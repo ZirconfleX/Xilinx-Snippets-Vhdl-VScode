@@ -5,6 +5,8 @@ This package provides the Xilinx FPGA Unisim library as a set of **VHDL** snippe
 Xilinx FPGA Unsim libraries are or can be used to instantiate hardware dedicated logic elements 
 available in the different FPGA families, elements such as PLL, MMCM , LUT, ...
 
+**Remark:** A similar package for Atom can be found [here](https://github.com/ZirconfleX/Xilinx-Snippets-Vhdl-Atom)
+
 ### Supported  FPGA families
 
    - Spartan-6
