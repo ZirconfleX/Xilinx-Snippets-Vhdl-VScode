@@ -3,6 +3,8 @@
     "displayName": "XilinxSnippets",
     "description": "The Xilinx FPGA Unisim library as a set of VHDL snippets.",
     "version": "0.0.1",
+    "publisher": "ZirconfleX",
+    "repository": "https://github.com/ZirconfleX/Xilinx-Snippets-Vhdl-VScode",
     "engines": {
         "vscode": "^1.43.0"
     },
